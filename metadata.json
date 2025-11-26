@@ -1,0 +1,8 @@
+{
+  "name": "Copy of STEALTHchat",
+  "description": "A secret, Instagram-styled messaging application locked behind a PIN code, featuring AI-powered image editing, analysis, and real-time voice chat with personas.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
